@@ -1,0 +1,114 @@
+body {
+    background-color: rgb(214, 214, 208);
+    width: 100vh;
+    margin: auto;
+}
+
+.wraper {
+    width: 200px;
+    height: 220px;
+    margin: 80px auto;
+    background: white;
+    padding-left: 10px;
+    border-radius: 20px;
+    padding-top: 8px;
+    padding-right: 10px;
+
+}
+
+.main {
+    height: 200px;
+    display: flex;
+    margin-right: 10px;
+    background: blue;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.con {
+    font-size: 12px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+    margin-left: 5px;
+}
+
+.para1 {
+    background-color: rgb(252, 216, 222);
+    border-radius: 8px;
+}
+
+.para2 {
+    background-color: rgb(141, 130, 94);
+    border-radius: 8px;
+}
+
+.para3 {
+    background-color: rgb(182, 235, 182);
+    border-radius: 8px;
+
+}
+
+.para4 {
+    background-color: rgb(99, 99, 177);
+    border-radius: 8px;
+}
+
+.ret {
+    color: rgb(199, 20, 50);
+}
+
+.Memory {
+    color: yellow;
+
+}
+
+.veb {
+    color: rgb(69, 187, 69);
+
+}
+
+.vis {
+    color: rgb(32, 32, 177);
+}
+
+.summary {
+    height: 200px;
+    font-size: 25px;
+    background: rgb(255, 253, 249);
+    margin-left: 10px;
+    padding-left: 5px;
+
+}
+
+#clor {
+    font-size: 13px;
+    color: white;
+
+}
+
+.result {
+    text-align: center;
+}
+
+p {
+    font-size: 14px;
+
+}
+
+.number {
+    border-radius: 50%;
+    background: rgb(9, 9, 117);
+    color: white;
+    font-size: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 12px;
+
+}
+
+.two {
+    font-size: 10px;
+    color: rgb(196, 182, 182);
+}
